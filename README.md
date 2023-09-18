@@ -13,5 +13,5 @@ Cors setings for FireFox Browser
 1. Cors setting are needed to enable the texture images for graphics projectes and those and not allowed in browser due to security reasons.
 2. type about:config in FireFox
 3. change the settings for content.cors.disable
-4. change the settigs for security.fileuri.strict_origin_policy
+4. change the settings for security.fileuri.strict_origin_policy
 5. Project will run without any issue.
